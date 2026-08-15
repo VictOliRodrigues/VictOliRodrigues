@@ -1,18 +1,112 @@
-# 💫 About Me:
-## 👨‍💻 Sobre mim<br><br>- 🎓 Bacharel em **Sistemas de Informação** <br>- 💼 **Supervisor de TI**<br>- 🧠 Atualmente estudando **Inteligência Artificial, arquitetura de sistemas e desenvolvimento frontend**<br>- 💻 Trabalho principalmente com **JavaScript e SQL**<br>- 🛠 Interesse em **automação de processos, desenvolvimento de sistemas e soluções práticas para problemas reais**<br>- 📊 Experiência em **estruturação e gestão de setor de TI (implantação do setor em empresa com +90 colaboradores)**<br><br>## 🚀 Atualmente<br><br>- 🔭 Trabalhando em **sistemas internos para automação, melhoria de fluxo e gestão**<br>- 🌱 Aprendendo mais sobre **JavaScript, TypeScript, refatoração e boas práticas de frontend**<br>- ⚙️ Desenvolvendo projetos focados em **automação, aplicações web e SaaS**
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Victor%20Oliveira%20Rodrigues&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Supervisor%20de%20TI%20%7C%20Desenvolvedor%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=52&descSize=16" width="100%" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v.oliveira.sc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Victor Oliveira Rodrigues) 
+<a href="https://github.com/VictOliRodrigues">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Transformo+processos+manuais+em+sistemas;JavaScript+%7C+TypeScript+%7C+SQL;Automa%C3%A7%C3%A3o%2C+Web+Apps+e+SaaS;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VictOliRodrigues&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VictOliRodrigues&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictOliRodrigues&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=VictOliRodrigues&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://www.linkedin.com/in/victororodrigues/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/v.oliveira.sc">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:oliveirarodriguesvictor0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=VictOliRodrigues&style=for-the-badge&color=38BDF8&label=VISITAS" alt="Profile views" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+## 🧑‍💻 Sobre mim
+
+```ts
+const victor = {
+  formacao:   "Bacharel em Sistemas de Informação",
+  cargo:      "Supervisor de TI",
+  foco:       ["Automação de processos", "Arquitetura de sistemas", "Frontend"],
+  estudando:  ["Inteligência Artificial", "TypeScript", "Boas práticas & refatoração"],
+  conquista:  "Implantei do zero o setor de TI de uma empresa com +90 colaboradores",
+  filosofia:  "Código que resolve problema real vale mais que código bonito no vazio",
+};
+```
+
+> 🔭 Hoje construo **sistemas internos** para automação, melhoria de fluxo e gestão.
+> 🌱 Sempre estudando **arquitetura, IA aplicada e desenvolvimento web moderno**.
+> 💬 Bora trocar ideia sobre **automação, SaaS ou estruturação de TI**.
+
+<br/>
+
+## 🛠️ Stack
+
+<table>
+  <tr>
+    <td align="center"><strong>Linguagens</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,java,php,python,html,css" alt="Linguagens" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,vite,tauri" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend &amp; Dados</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,prisma,sequelize,mysql,nginx,socketio" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Ferramentas</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,powershell" alt="Ferramentas" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" height="42" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 GitHub em números
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VictOliRodrigues&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&include_all_commits=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictOliRodrigues&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=VictOliRodrigues&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=VictOliRodrigues&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+
+</div>
+
+<br/>
+
+## 🎯 Em construção
+
+| Projeto | Sobre |
+| :--- | :--- |
+| ⚙️ **Automações internas** | Ferramentas que eliminam trabalho manual e padronizam fluxos |
+| 🖥️ **Sistemas de gestão** | Web apps para controle operacional e tomada de decisão |
+| 🤖 **IA aplicada** | Experimentos usando IA para acelerar processos do dia a dia |
+
+<br/>
+
+<div align="center">
+
+### ⭐ Se algo por aqui te ajudou, deixa uma estrela!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+
+</div>
