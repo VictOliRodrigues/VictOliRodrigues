@@ -79,10 +79,6 @@ Técnico de TI e desenvolvedor. Gosto de pegar processo manual e transformar em 
   <img src="https://raw.githubusercontent.com/VictOliRodrigues/VictOliRodrigues/output/snake.svg" alt="Snake comendo minhas contribuições" width="100%" />
 </picture>
 
-<br/><br/>
-
-<img height="200" src="https://streak-stats.demolab.com?user=VictOliRodrigues&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak" />
-
 </div>
 
 <br/>
