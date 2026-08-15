@@ -81,31 +81,7 @@ Técnico de TI e desenvolvedor. Gosto de pegar processo manual e transformar em 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VictOliRodrigues&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Atividade%20no%20%C3%BAltimo%20ano" alt="Gráfico de atividade" width="100%" />
-
-</div>
-
-<br/>
-
-## 📊 GitHub em números
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictOliRodrigues&theme=tokyonight" alt="Resumo do perfil" width="100%" />
-
-<br/>
-
 <img height="200" src="https://streak-stats.demolab.com?user=VictOliRodrigues&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak" />
-
-<br/><br/>
-
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictOliRodrigues&theme=tokyonight" alt="Linguagens por repositório" />
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictOliRodrigues&theme=tokyonight" alt="Linguagens mais commitadas" />
-
-<br/>
-
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictOliRodrigues&theme=tokyonight" alt="Estatísticas" />
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VictOliRodrigues&theme=tokyonight&utcOffset=-3" alt="Horários mais produtivos" />
 
 </div>
 
