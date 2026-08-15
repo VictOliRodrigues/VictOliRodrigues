@@ -23,22 +23,17 @@
 
 <br/>
 
-## 🧑‍💻 Sobre mim
+## 👋 Sobre mim
 
-```ts
-const victor = {
-  formacao:   "Bacharel em Sistemas de Informação",
-  cargo:      "Técnico de TI",
-  foco:       ["Automação de processos", "Arquitetura de sistemas", "Frontend"],
-  estudando:  ["Inteligência Artificial", "TypeScript", "Boas práticas & refatoração"],
-  conquista:  "Implantei do zero o setor de TI de uma empresa com +90 colaboradores",
-  filosofia:  "Código que resolve problema real vale mais que código bonito no vazio",
-};
-```
+Técnico de TI e desenvolvedor. Gosto de pegar processo manual e transformar em sistema.
 
-> 🔭 Hoje construo **sistemas internos** para automação, melhoria de fluxo e gestão.
-> 🌱 Sempre estudando **arquitetura, IA aplicada e desenvolvimento web moderno**.
-> 💬 Bora trocar ideia sobre **automação, SaaS ou estruturação de TI**.
+- 🎓 &nbsp;Bacharel em **Sistemas de Informação**
+- 🏗️ &nbsp;Implantei **do zero** o setor de TI de uma empresa com **+90 colaboradores**
+- ⚡ &nbsp;Foco em **automação de processos, aplicações web e SaaS**
+- 💻 &nbsp;Trabalho principalmente com **JavaScript, TypeScript e SQL**
+- 🌱 &nbsp;Estudando **IA aplicada, arquitetura de sistemas e boas práticas de frontend**
+- 💬 &nbsp;Bora trocar ideia sobre **automação, SaaS ou estruturação de TI**
+- 📫 &nbsp;**oliveirarodriguesvictor0@gmail.com**
 
 <br/>
 
@@ -74,20 +69,43 @@ const victor = {
 
 <br/>
 
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictOliRodrigues/VictOliRodrigues/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictOliRodrigues/VictOliRodrigues/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/VictOliRodrigues/VictOliRodrigues/output/snake.svg" alt="Snake comendo minhas contribuições" width="100%" />
+</picture>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VictOliRodrigues&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Atividade%20no%20%C3%BAltimo%20ano" alt="Gráfico de atividade" width="100%" />
+
+</div>
+
+<br/>
+
 ## 📊 GitHub em números
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VictOliRodrigues&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictOliRodrigues&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictOliRodrigues&theme=tokyonight" alt="Resumo do perfil" width="100%" />
+
+<br/>
+
+<img height="200" src="https://streak-stats.demolab.com?user=VictOliRodrigues&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=VictOliRodrigues&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictOliRodrigues&theme=tokyonight" alt="Linguagens por repositório" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictOliRodrigues&theme=tokyonight" alt="Linguagens mais commitadas" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=VictOliRodrigues&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictOliRodrigues&theme=tokyonight" alt="Estatísticas" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VictOliRodrigues&theme=tokyonight&utcOffset=-3" alt="Horários mais produtivos" />
 
 </div>
 
