@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Victor%20Oliveira%20Rodrigues&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Supervisor%20de%20TI%20%7C%20Desenvolvedor%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=52&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Victor%20Oliveira%20Rodrigues&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=T%C3%A9cnico%20de%20TI%20%7C%20Desenvolvedor%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=52&descSize=16" width="100%" />
 
 <a href="https://github.com/VictOliRodrigues">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Transformo+processos+manuais+em+sistemas;JavaScript+%7C+TypeScript+%7C+SQL;Automa%C3%A7%C3%A3o%2C+Web+Apps+e+SaaS;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
@@ -28,7 +28,7 @@
 ```ts
 const victor = {
   formacao:   "Bacharel em Sistemas de Informação",
-  cargo:      "Supervisor de TI",
+  cargo:      "Técnico de TI",
   foco:       ["Automação de processos", "Arquitetura de sistemas", "Frontend"],
   estudando:  ["Inteligência Artificial", "TypeScript", "Boas práticas & refatoração"],
   conquista:  "Implantei do zero o setor de TI de uma empresa com +90 colaboradores",
